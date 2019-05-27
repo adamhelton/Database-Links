@@ -1,7 +1,7 @@
 import pyodbc
 
 conn = pyodbc.connect('Driver={SQL Server};'
-'Server=LAPTOP-EM4ODK5N;'
+'Server=Insert Server Name Here;'
 'Database=test;'
 'Trusted_Connection=yes;')
 
